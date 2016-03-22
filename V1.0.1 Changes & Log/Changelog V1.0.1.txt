@@ -9,4 +9,4 @@ That's more of a job for V1.1
 
 Nearly all of the comments have been removed as 90% of them were wrote in as a sarcastic response to the tutor.
 
-Instead of creating a whole new folder for this small change, I'm going to include just the .cpp file
+I've included just the .cpp file instead of dumping the whole file here.
